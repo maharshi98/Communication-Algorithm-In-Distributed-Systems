@@ -1,4 +1,4 @@
-# Distributed-Systems
+# Communication Algos in Distributed-Systems
  
 In this project, I have implemented 2 algorithms - Gossip and PushSum using the concepts of Distributed Computing. The language used is Elixir.
 
